@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.hover.newsclientapp2.MainActivity" >
+
+    <item
+        android:id="@+id/add_category"
+        android:icon="@drawable/ic_action_user"
+        android:title="@string/action_settings"
+        app:showAsAction="always"/>
+
+</menu>
